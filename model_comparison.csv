@@ -1,0 +1,4 @@
+Model,Accuracy (%),Test Loss,Training Time (seconds),Model Size (MB)
+ResNet18,79.2,0.6233,60.71,42.73
+DenseNet121,79.0,0.6911,177.73,27.14
+EfficientNetB0,63.2,1.2147,152.35,15.62
